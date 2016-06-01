@@ -1,2 +1,2 @@
-# testProjectPages
-test how to create a github project page
+# HomePage
+Type some aimless words. LOL...
