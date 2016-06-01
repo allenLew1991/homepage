@@ -1,2 +1,4 @@
-# testProjectPages
-test how to create a github project page
+# Home Page
+Share Knowledges & Open Life Source & Smile Living for Death
+Write some aimless words.
+LOL...
